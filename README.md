@@ -2,8 +2,8 @@ The following assignments were done as a part of my coursework at ISOEH Kolkata.
 
 # Ethical Hacking
 
-* [TryHackMe: Ice Walkthrough](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Ethicalr%20Hacking/ISOEH_EH_Report_1.pdf)
-* [Cybersploit-1 Walkthrough](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Ethicalr%20Hacking/ISOEH_EH_Final_Exam.pdf)
+* [TryHackMe: Ice Walkthrough](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Ethical%20Hacking/ISOEH_EH_Report_1.pdf)
+* [Cybersploit-1 Walkthrough](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Ethical%20Hacking/ISOEH_EH_Final_Exam.pdf)
 
 # Computer Forensic
 
