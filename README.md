@@ -11,3 +11,7 @@ The following assignments were done as a part of my coursework at ISOEH Kolkata.
 * [Volatile Memory Capture and Analysis using Exterro FTK Imager, Belkasoft Live RAM Capture and Volatility Workbench](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_2.pdf)
 * [Data Recovery using EaseUS Data Recovery Wizard](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_3.pdf)
 * [Disk Image Analysis using Exterro FTK Imager and Autopsy](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_4.pdf)
+* [Defeating Anti-Forensics: Steganalysis using QuickStego and Password Cracking using Passware Kit](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_5.pdf)
+* [File Carving using Autopsy and Investigating the Effect of TRIM-enabling](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_6.pdf)
+* [E-Mail Forensics using SysTools EML Viewer and MxToolbox](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_11.pdf)
+* [Database Forensics using DB Browsing for SQLite](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_12.pdf)
