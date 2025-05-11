@@ -13,6 +13,7 @@ The following assignments were done as a part of my coursework at ISOEH Kolkata.
 * [Disk Image Analysis using Exterro FTK Imager and Autopsy](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_4.pdf)
 * [Defeating Anti-Forensics: Steganalysis using QuickStego and Password Cracking using Passware Kit](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_5.pdf)
 * [File Carving using Autopsy and Investigating the Effect of TRIM-enabling](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_6.pdf)
+* [Artifact Checking in Windows and Linux using OSForensics](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_7.pdf)
 * [Network Forensics using Splunk and Wireshark](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_10.pdf)
 * [E-Mail Forensics using SysTools EML Viewer and MxToolbox](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_11.pdf)
 * [Database Forensics using DB Browsing for SQLite](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_12.pdf)
