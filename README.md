@@ -18,8 +18,7 @@ The following assignments were done as a part of my coursework at ISOEH Kolkata.
 * [Network Forensics using Splunk and Wireshark](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_10.pdf)
 * [E-Mail Forensics using SysTools EML Viewer and MxToolbox](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_11.pdf)
 * [Database Forensics using DB Browsing for SQLite](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Report_12.pdf)
-
-* [Exam Question Paper and My Answer Sheet](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Exam_merged.pdf)
+* [Final Exam Question Paper and My Answer Sheet](https://github.com/dassarthak18/ISOEH-Assignments/blob/main/Computer%20Forensic/ISOEH_CF_Exam_merged.pdf)
 
 **Others (covered in syllabus, but not done):**
 * Mac Forensics using Paraben Electronic Evidence Examiner
